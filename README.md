@@ -14,6 +14,7 @@ Resposta localizada no branch "solucao"
 
 Feito por: 
 Matheus Amorim
-email: matheusamorim1810@gmail.com
-github: https://github.com/matthzAmm
+
+Email: matheusamorim1810@gmail.com
+Github: https://github.com/matthzAmm
 
