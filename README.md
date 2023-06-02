@@ -10,6 +10,8 @@ Retornar as strings validas em um array de strings seguindo as seguintes condiç
 - Ter número
 - Ter caracter especial
 
+Resposta localizada no branch "solucao"
+
 Feito por: 
 Matheus Amorim
 email: matheusamorim1810@gmail.com
